@@ -1,9 +1,14 @@
 ### David Xique
+___ 
 
 ####  _Hs of Telecommunication Arts and Technology_
 **Email:** davidx4697@hstat.org
 
-I am sixteen years old. I joined the SEP program to learn code and hopefully use it in the future. I love sports and enjoy playing football and soccer.
+I am sixteen years old. I joined the SEP program to learn code and hopefully use it in the future. I love sports and enjoy playing football and soccer. I also listen to different types of music such as 
+* Rap
+* Indie Rock
+* Pop
+
 
 Schedule:
 
